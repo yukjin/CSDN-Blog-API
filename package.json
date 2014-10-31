@@ -1,0 +1,16 @@
+{
+  "name": "csdnBlogApi",
+  "version": "1.0.0",
+  "description": "csdn blog api",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "superagent": "^0.20.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": ""
+  },
+  "author": "yukjin",
+  "license": "MIT"
+}
