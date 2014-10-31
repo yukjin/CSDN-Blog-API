@@ -2,9 +2,10 @@
   "name": "csdnBlogApi",
   "version": "1.0.0",
   "description": "csdn blog api",
-  "main": "index.js",
+  "main": "app.js",
   "dependencies": {
     "cheerio": "^0.17.0",
+    "express": "^4.10.1",
     "superagent": "^0.20.0"
   },
   "devDependencies": {},
